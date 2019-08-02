@@ -9,4 +9,5 @@ end
 else
   "There is no block given!"
 end
+array
 end
